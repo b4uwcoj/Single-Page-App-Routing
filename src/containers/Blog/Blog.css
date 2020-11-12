@@ -16,6 +16,10 @@
     color: black;
 }
 
+.Author {
+    margin: 16px 0;
+    color: #ccc;
+}
 .Blog a:hover,
 .Blog a:active,
 .Blog a.active {
